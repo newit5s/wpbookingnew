@@ -1,0 +1,2 @@
+# wpbookingnew
+plugin booking table
